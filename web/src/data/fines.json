@@ -1,0 +1,662 @@
+[
+  {
+    "category": "Motor Vehicle Offenses and Citations",
+    "charges": [
+      {
+        "title": "Failure to Stop/Running Light",
+        "time": "0",
+        "fine": "100",
+        "points": "1",
+        "type": "Traffic Infraction",
+        "description": "A driver facing a stop sign or steady red signal shall stop at a marked limit line or before entering the crosswalk of an intersection. A driver facing a steady circular red signal shall stop as described above and shall remain stopped until a steady circular green signal or an indication to proceed as shown. Except when prohibited by signage, a drive may turn right at a solid red signal after coming to a complete stop, yielding to pedestrians and oncoming traffic."
+      },
+      {
+        "title": "Operating a Motor Vehicle without a License",
+        "time": "0",
+        "fine": "175",
+        "points": "2",
+        "type": "Traffic Infraction",
+        "description": "No person shall operate a motor vehicle upon public roads, streets, or highways, without a possession of a PHYSICAL valid driver's license, including a license which has been suspended. The vehicle shall be subject to inpound."
+      },
+      {
+        "title": "Speeding 3rd Degree (Minor)",
+        "time": "0",
+        "fine": "100",
+        "points": "1",
+        "type": "Traffic Infraction",
+        "description": "No person shall drive a vehicle upon a public road, street, or highway at speeds 1-25 mph greater than the statutory or posted speed limit."
+      },
+      {
+        "title": "Speeding 2rd Degree (Intermediate)",
+        "time": "0",
+        "fine": "175",
+        "points": "2",
+        "type": "Traffic Infraction",
+        "description": "No person shall drive a vehicle upon a public road, street, or highway at speeds 26-50 mph greater than the statutory or posted speed limit."
+      },
+      {
+        "title": "Speeding 1st Degree (Major)",
+        "time": "0",
+        "fine": "300",
+        "points": "3",
+        "type": "Traffic Infraction",
+        "description": "No person shall drive a vehicle upon a public road, street, or highway at speeds 51-75 mph greater than the statutory or posted speed limit."
+      },
+      {
+        "title": "Speeding 2rd Degree (Intermediate)",
+        "time": "0",
+        "fine": "175",
+        "points": "2",
+        "type": "Traffic Infraction",
+        "description": "No person shall drive a vehicle upon a public road, street, or highway at speeds 26-50 mph greater than the statutory or posted speed limit."
+      },
+      {
+        "title": "Speeding 1st Degree (Major)",
+        "time": "0",
+        "fine": "300",
+        "points": "3",
+        "type": "Traffic Infraction",
+        "description": "No person shall drive a vehicle upon a public road, street, or highway at speeds 51-75 mph greater than the statutory or posted speed limit."
+      },
+      {
+        "title": "Speeding 2rd Degree (Intermediate)",
+        "time": "0",
+        "fine": "175",
+        "points": "2",
+        "type": "Traffic Infraction",
+        "description": "No person shall drive a vehicle upon a public road, street, or highway at speeds 26-50 mph greater than the statutory or posted speed limit."
+      },
+      {
+        "title": "Speeding 1st Degree (Major)",
+        "time": "0",
+        "fine": "300",
+        "points": "3",
+        "type": "Traffic Infraction",
+        "description": "No person shall drive a vehicle upon a public road, street, or highway at speeds 51-75 mph greater than the statutory or posted speed limit."
+      },
+      {
+        "title": "Jaywalking",
+        "time": "0",
+        "fine": "75",
+        "points": "0",
+        "type": "Traffic Infraction",
+        "description": "No person shall between adjacent intersections controlled by traffic control signal devices, cross the roadway at any place except a crosswalk where there is an immediate chance of collision."
+      },
+      {
+        "title": "Driving on the Wrong Side of the Road",
+        "time": "0",
+        "fine": "50",
+        "points": "1",
+        "type": "Traffic Infraction",
+        "description": "No person shall drive any vehicle over, upon, or across the dividing section of any road. The dividing section of any road may include curbs, double-parallel lines, or any other marking indicating a dividing of opposing lanes of travel."
+      },
+      {
+        "title": "Unauthorized Parking",
+        "time": "0",
+        "fine": "125",
+        "points": "1",
+        "type": "Traffic Infraction",
+        "description": "No person shall stop, park, or leave standing any vehicle along a red curb, where there is a 'no parking' sign, blocking egress from any private or public property, on a marked crosswalk, across multiple parking spaces, on any curb, facing the wrong direction of travel, or obstructing any public road, street,or highway. Vehicle shall be subject to tow."
+      },
+      {
+        "title": "Illegal Window Tints",
+        "time": "0",
+        "fine": "200",
+        "points": "0",
+        "type": "Traffic Infraction",
+        "description": "No person shall stop operate an automobile bearing opaque window tints upon the public roads, streets, or highways. Opaque window tints are tints which would make it impossible for the reasonable person to see the driver and/or passenger compartments of the vehicle from the exterior of the vehicle. Vehicle shall be subject to tow."
+      },
+
+      {
+        "title": "Driving Under the Influence",
+        "time": "0",
+        "fine": "750",
+        "points": "0",
+        "type": "Misdemeanor A",
+        "description": "No person shall operate a motor vehicle while 1) visibly intoxicated, showing signs of intoxication (field sobriety) and/or 2) found to exceed the legal limit of consumption etc."
+      },
+      {
+        "title": "Hit and Run (Property)",
+        "time": "20",
+        "fine": "500",
+        "points": "0",
+        "type": "Misdemeanor A",
+        "description": "No person shall leave the scene of any accident resulting in damage to any other vehicle or property without the providing necessary identification, aid, or information."
+      },
+      {
+        "title": "Street Racing",
+        "time": "30",
+        "fine": "750",
+        "points": "5",
+        "type": "Felony C",
+        "description": "No person shall willfully engage as a participant in a motor vehicle race upon a public road, street, or highway. The motor vehicle race can be against another motorist or a clock."
+      },
+      {
+        "title": "Reckless Driving",
+        "time": "20",
+        "fine": "400",
+        "points": "3",
+        "type": "Misdemeanor A",
+        "description": "No person shall drive a vehicle with wanton disregard for the safety of persons, or in such a way that destroys public or private infrastructure."
+      },
+      {
+        "title": "Evading",
+        "time": "15",
+        "fine": "300",
+        "points": "3",
+        "type": "Misdemeanor A",
+        "description": "No person shall operate a motor vehicle with the intent to evade, willfully flee, or otherwise attempt to elude a pursuing peace officer's vehicle."
+      },
+      {
+        "title": "Reckless Evading",
+        "time": "15",
+        "fine": "300",
+        "points": "3",
+        "type": "Felony D",
+        "description": "No person shall operate a motor vehicle in a reckless manner with the intent to evade, willfully flee, or otherwise attempt to elude a pursuing peace officer's vehicle. A 'reckless manner' shall be with a wanton disregard for the safety of persons, or in such a way that destroys public or private infrastructure."
+      },
+      {
+        "title": "Unauthorized Use of an Off-Road Vehicle",
+        "time": "5",
+        "fine": "650",
+        "points": "3",
+        "type": "Misdemeanor A",
+        "description": "No person shall operate an off-road vehicle within City-Limits without explicit authorization from the state. 'City Limits' is used as defined in Legislation. This includes the Dune Buggy."
+      },
+      {
+        "title": "Illegal Operation of a Taxi or Car Service",
+        "time": "0",
+        "fine": "250",
+        "points": "0",
+        "type": "Traffic Infraction",
+        "description": "No person shall operate a Taxi or Car Service without a valid drivers license, or without a valid Taxi License. Vehicle shall be subject to tow."
+      },
+      {
+        "title": "Illegal Operation of Towing Service",
+        "time": "0",
+        "fine": "250",
+        "points": "0",
+        "type": "Traffic Infraction",
+        "description": "No person shall operate a Tow Service without a valid drivers license, or without a valid Commercial Driver's License, or operate a towing service which violates State Law. Vehicle shall be subject to tow."
+      },
+      {
+        "title": "Misuse of a Government Issued Occupational Vehicle",
+        "time": "0",
+        "fine": "400",
+        "points": "0",
+        "type": "Misdemeanor C",
+        "description": "Any individual found to be operating or utilizing a State issued occupational vehicle in the commission of a misdemeanor or felony offense (not including Traffic Citations) shall be guilty of Misuse of a Government Issued Vehicle."
+      },
+      {
+        "title": "Failure to Secure Passengers",
+        "time": "0",
+        "fine": "125",
+        "points": "1",
+        "type": "Traffic Infraction",
+        "description": "No person shall operate a vehicle within city limits with passengers unsecured and exposed to additional safety risks. This shall include passengers riding in the bed of a truck or handing off the side of a vehicle."
+      },
+      {
+        "title": "Hit and Run (Pedestrian)",
+        "time": "30",
+        "fine": "700",
+        "points": "",
+        "type": "Felony D",
+        "description": "No person shall leave the scene of any accident resulting in damage to any pedestrian without the providing necessary identification, aid, or information."
+      },
+      {
+        "title": "Reckless Operation of a Government Issued Vehicle",
+        "time": "0",
+        "fine": "500",
+        "points": "5",
+        "type": "Misdemeanor A",
+        "description": "No person shall operate any Government Issued Vehicle in a manner that intentionally causes personal injury or property damage. Individuals charged with this offense shall have their Commercial Drivers License suspended."
+      },
+      {
+        "title": "Operating a Motorcycle without a license",
+        "time": "0",
+        "fine": "175",
+        "points": "2",
+        "type": "Traffic Infraction",
+        "description": "No person shall operate a motorcycle upon public roads, streets, or highways without possession of a PHYSICAL valid motorcycle license, including which has been suspended. The motorcycle shall be subject to impound."
+      },
+      {
+        "title": "Failure to Wear a Motorcycle Helmet",
+        "time": "0",
+        "fine": "75",
+        "points": "0",
+        "type": "Traffic Infraction",
+        "description": "No motorcycle operator or passenger shall fail to wear a motorcycle protective helmet while (1) within City Limits, or (2) on any highway or freeway."
+      },
+      {
+        "title": "Failure to Yield to Emergency Vehicle",
+        "time": "0",
+        "fine": "100",
+        "points": "1",
+        "type": "Traffic Infraction",
+        "description": "No person shall obstruct the passage of an emergency vehicle, when emergency lights or a siren are in use."
+      },
+      {
+        "title": "Failure to Display Registered Plates",
+        "time": "0",
+        "fine": "100",
+        "points": "1",
+        "type": "Traffic Infraction",
+        "description": "No person shall fail to display a registered plate upon a vehicle they are driving when that vehicle has fixture to which a plate mat be attached."
+      },
+      {
+        "title": "Illegal Operation of a Food Service Vehicle",
+        "time": "0",
+        "fine": "500",
+        "points": "0",
+        "type": "Traffic Infraction",
+        "description": "No person shall operate a Food Service Vehicle without a valid Vendor's license, or operate a food service or business, other than those owned by the State of San Andreas, which violates State Law. The vehicle shall be subject to tow and impound."
+      },
+      {
+        "title": "Operating a Vehicle Without Registration",
+        "time": "0",
+        "fine": "75",
+        "points": "0",
+        "type": "Traffic Infraction",
+        "description": "No person shall operate a motor vehicle upon public roads, streets, or highways without possession of a physical proof of registration of the same. The vehicle shall be subject to impound."
+      },
+      {
+        "title": "Distracted Driving",
+        "time": "0",
+        "fine": "100",
+        "points": "1",
+        "type": "Traffic Infraction",
+        "description": "No person, without lawful justification, shall drive a motor vehicle while holding and operating handheld wireless telephone or electronic wireless communications device."
+      },
+      {
+        "title": "Impeding Traffic",
+        "time": "0",
+        "fine": "100",
+        "points": "1",
+        "type": "Traffic Infraction",
+        "description": "No person shall stop upon a public road, street, railroad or highway or drive at suck slow speed as to impede or block the normal and reasonable movement of traffic unless it was necessary for safe operation of the vehicle. Vehicle shall be subject to tow."
+      },
+      {
+        "title": "Driving on a Sidewalk",
+        "time": "0",
+        "fine": "100",
+        "points": "1",
+        "type": "Traffic Infraction",
+        "description": "No person shall operate or move a motor vehicle upon a sidewalk except as may be necessary to enter or leave adjacent property or otherwise authorized by law."
+      }
+    ]
+  },
+  {
+    "category": "Offenses Against Persons",
+    "charges": [
+      {
+        "title": "Disorderly Conduct",
+        "time": "10",
+        "fine": "300",
+        "points": "0",
+        "type": "Misdemeanor C",
+        "description": "A crime that involves public activity or behavior that's offensive or disruptive, and interrupts other people's ability to enjoy a public service."
+      },
+      {
+        "title": "False Imprisonment",
+        "time": "15",
+        "fine": "425",
+        "points": "0",
+        "type": "Misdemeanor A",
+        "description": "No person shall unlawfully violate the personal liberty of another without lawful justification."
+      },
+      {
+        "title": "Petty Larceny",
+        "time": "10",
+        "fine": "300",
+        "points": "0",
+        "type": "Misdemeanor B",
+        "description": "No person shall steal, take, carry, lead, or drive away the personal property of another from their person or custodial possession."
+      },
+      {
+        "title": "Assault & Battery",
+        "time": "10",
+        "fine": "350",
+        "points": "0",
+        "type": "Misdemeanor A",
+        "description": "No person shall make an unlawful attempt, successfully or unsuccessfully, to commit a violent injury on the person of another."
+      },
+      {
+        "title": "Human Trafficking",
+        "time": "40",
+        "parole": "80",
+        "fine": "2,000",
+        "points": "0",
+        "type": "Felony B",
+        "description": "No person shall engage in the deprivation or violation of another individual through kidnapping or imprisonment, with the intent to obtain labor or services from that individual through force or coercion, or with the intent to sell that individual to another."
+      },
+      {
+        "title": "Criminal Threats",
+        "time": "15",
+        "fine": "500",
+        "points": "0",
+        "type": "Felony D",
+        "description": "No person shall willfully threaten unequivocally, unconditionally, immediately, or specifically to commit a crime which will result in death or great bodily harm to another person, with ot without intent that the threat can be carried out."
+      },
+      {
+        "title": "Kidnapping",
+        "time": "20",
+        "fine": "700",
+        "points": "0",
+        "type": "Felony D",
+        "description": "No person shall forcibly, or by any other means instilling fear, or deceit, steal or take, hold, detain, or arrest any person of the state and transport that individual to another location within or outside of the State of San Andreas."
+      },
+      {
+        "title": "Stalking",
+        "time": "20",
+        "fine": "700",
+        "points": "0",
+        "type": "Felony D",
+        "description": "Any person who willfully, maliciously, and repeatedly follows or willfully and maliciously harasses another person and who makes a credible threat with the intent ot place that person in reasonable fear for his or her safety."
+      },
+      {
+        "title": "Kidnapping of a Government Employee",
+        "time": "30",
+        "fine": "1,200",
+        "points": "0",
+        "type": "Felony D",
+        "description": "No person shall forcibly, or by any other means instilling fear, or deceit, steal or take, hold, detain, or arrest any government employee and transport that government employee to another location within or outside of the State of San Andreas."
+      },
+      {
+        "title": "Grand Larceny",
+        "time": "25",
+        "fine": "700",
+        "points": "0",
+        "type": "Felony C",
+        "description": "No person shall commit any larceny in which the value of the money, real property, or personal property stolen exceeds $3,000.00."
+      },
+      {
+        "title": "Voluntary Manslaughter",
+        "time": "1200",
+        "parole": "4320",
+        "fine": "5,000",
+        "points": "0",
+        "type": "Felony B",
+        "description": "No person shall unlawfully kill another person, without malice, voluntarily through a sudden quarrel or heat of passion."
+      },
+      {
+        "title": "Attempted Murder",
+        "time": "40",
+        "parole": "400",
+        "fine": "1,800",
+        "points": "0",
+        "type": "Felony B",
+        "description": "No person shall attempt to unlawfully and intentionally kill another human being with malice aforethought, with or without premeditation."
+      },
+      {
+        "title": "Attempted Murder of a Government Employee",
+        "time": "50",
+        "parole": "500",
+        "fine": "5,000",
+        "points": "0",
+        "type": "Felony B",
+        "description": "No person shall attempt to unlawfully and intentionally kill any government employee with malice aforethought, with or without premeditation. THIS CHARGE IS COMPREHENSIVE FOR ALL ATTEMPTED MURDERS IN A SINGULAR INCIDENT AND CANNOT BE STACKED MULTIPLE TIMES."
+      },
+      {
+        "title": "Gang Related Shooting",
+        "time": "40",
+        "parole": "400",
+        "fine": "1,500",
+        "points": "0",
+        "type": "Felony B",
+        "description": "No person shall actively participate in a shootout with a 'criminal street gang' against members another criminals street gang, with knowledge that its members engage in, or have engaged in, a pattern of criminal gang activity."
+      },
+      {
+        "title": "Murder of a Government Employee",
+        "time": "0",
+        "fine": "0",
+        "points": "0",
+        "type": "Felony A",
+        "description": "No person unlawfully and intentionally kill any government employee with malice aforethought, with or without premeditation. A determination as to whether the homicide is classified as murder in the first or second degree shall be made solely by the judiciary of the State of San Andreas should the matter proceed to trial."
+      },
+      {
+        "title": "Murder",
+        "time": "0",
+        "fine": "0",
+        "points": "0",
+        "type": "Felony A",
+        "description": "No person unlawfully and intentionally kill another human being with malice aforethought, with or without premeditation. A determination as to whether the homicide is classified as murder in the first or second degree shall be made solely by the judiciary of the State of San Andreas should the matter proceed to trial."
+      },
+      {
+        "title": "Mayhem (Minor)",
+        "time": "1200",
+        "parole": "4320",
+        "fine": "7,500",
+        "points": "0",
+        "type": "Felony B",
+        "description": "No person, in a single instance, with the intent to cause cruel or extreme pain and suffering for the purpose of revenge, extortion, persuasion, or for any sadistic purpose shall maim and inflict great bodily injury on another person."
+      },
+      {
+        "title": "Mayhem (Major)",
+        "time": "0",
+        "fine": "0",
+        "points": "0",
+        "type": "Felony A",
+        "description": "No person, with the intent to cause or extreme pain and suffering for the purpose of revenge, extortion, persuasion, or for any sadistic purpose shall maim and inflict great bodily injury on another person. Such intent and purposes may include prolonged conduct over the course of three or more days, serial conduct on three or more occasions against the same person, or wanton conduct against three or more persons."
+      },
+      {
+        "title": "Mail Theft/Fraud",
+        "time": "12",
+        "fine": "500",
+        "points": "0",
+        "type": "Misdemeanor A",
+        "description": "No person shall (1) steal, take, or obtain by fraud or deception (2) out of any mail and/or delivery from any post office, letter box, main/delivery receptacle, or mail/delivery route (3) any letter, postal card, package, bag, or mail."
+      },
+      {
+        "title": "Involuntary Manslaughter",
+        "time": "800",
+        "parole": "2851",
+        "fine": "3,500",
+        "points": "0",
+        "type": "Felony B",
+        "description": "No person shall unlawfully kill another person, without malice involuntarily through negligent or reckless commission of an act which might produce death."
+      },
+      {
+        "title": "Aggravated Assault",
+        "time": "13",
+        "fine": "450",
+        "points": "0",
+        "type": "Misdemeanor A",
+        "description": "No person shall commit and assault upon the person of another by means of force which causes incapacitation."
+      }
+    ]
+  },
+  {
+    "category": "Drugs and Weapon Related Offenses",
+    "charges": [
+      {
+        "title": "Brandishing Firearm",
+        "time": "10",
+        "fine": "225",
+        "points": "0",
+        "type": "Misdemeanor A",
+        "description": "No person shall, except for lawful cause, in the present of any other person draw or exhibit any firearm in a manner which the objectively reasonable person would view as rude, angry, or threatening manner."
+      },
+      {
+        "title": "Negligent Discharge of a Firearm",
+        "time": "10",
+        "fine": "400",
+        "points": "0",
+        "type": "Misdemeanor A",
+        "description": "No person shall, without lawful reason, willfully discharge a firearm in a grossly negligent manner without lawful cause or justification."
+      },
+      {
+        "title": "Reckless Discharge of a Firearm",
+        "time": "20",
+        "fine": "700",
+        "points": "0",
+        "type": "Misdemeanor A",
+        "description": "No person shall maliciously or willfully discharge a firearm in a grossly negligent manner without lawful cause or justification."
+      },
+      {
+        "title": "Brandishing Non Firearm",
+        "time": "5",
+        "fine": "150",
+        "points": "0",
+        "type": "Misdemeanor C",
+        "description": "No person shall, except for lawful cause, in the presence of any other person draw or exhibit any weapon in a manner which the objectively reasonable person would view as rude, angry, or threatening manner."
+      },
+      {
+        "title": "Sale of Firearm",
+        "time": "20",
+        "fine": "500",
+        "points": "0",
+        "type": "Misdemeanor A",
+        "description": "No individual shall sell, lease, or transfer any firearm to any individual who does not possess a valid weapon's license."
+      },
+      {
+        "title": "Criminal Possession of a Rifle",
+        "time": "25",
+        "fine": "800",
+        "points": "0",
+        "type": "Felony D",
+        "description": "No person shall own, purchase, receive, or have under their custody or control any rifle or shotgun without proper certification or license, or other lawful excuse, issued by the authority of the State of San Andreas."
+      },
+      {
+        "title": "Criminal Possession of a Handgun",
+        "time": "15",
+        "fine": "800",
+        "points": "0",
+        "type": "Felony D",
+        "description": "No person shall own, purchase, receive, or have under their custody or control any handgun without proper certification or license, or other lawful excuse, issued by the authority of the State of San Andreas."
+      },
+      {
+        "title": "Assault with a Deadly Weapon",
+        "time": "30",
+        "parole": "60",
+        "fine": "1,000",
+        "points": "0",
+        "type": "Felony B",
+        "description": "No person shall commit assault upon the person of another with a deadly weapon or instrument likely to cause great bodily injury."
+      },
+      {
+        "title": "Sale of a Controlled Dangerous Substance",
+        "time": "20",
+        "fine": "500",
+        "points": "0",
+        "type": "Felony D",
+        "description": "No person shall sell, furnish, administer, give away any controlled substance specified under Section 002 | Controlled Dangerous Substances | Scheduling, unless by or upon written prescription by a physician licensed by the San Andreas Medical Authority."
+      }
+    ]
+  }, {
+    "category": "Public Order Offenses",
+    "charges": [
+      {
+        "title": "Failure to Comply with a Peace Officer",
+        "time": "10",
+        "fine": "300",
+        "points": "0",
+        "type": "Misdemeanor A",
+        "description": "No person shall willfully or refuse to comply with a lawful order, signal, or direction of a peace officer when that peace officer is uniformed and performing their lawful duties."
+      },
+      {
+        "title": "Flying Without a License",
+        "time": "15",
+        "fine": "700",
+        "points": "0",
+        "type": "Felony D",
+        "description": "No person shall operate any aircraft, regardless of elevation, without possession of a valid pilot's license, including a license which has been suspended. The vehicle shall be subject to impound."
+      },
+      {
+        "title": "Public Intoxication",
+        "time": "5",
+        "fine": "250",
+        "points": "0",
+        "type": "Misdemeanor C",
+        "description": "No person shall be found in any public place under the influence of intoxicating liquor or any controlled substance in a condition that they are unable to exercise care for their own safety or the safety of others."
+      },
+      {
+        "title": "Trespassing",
+        "time": "10",
+        "fine": "325",
+        "points": "0",
+        "type": "Misdemeanor A",
+        "description": "No person shall enter or remain upon any lands or properties owned by any other person without lawful reason or permission of the owner, an agent of the owner, or legal occupant. A formal trespass notice is not required except as to otherwise publicity accessible areas."
+      },
+      {
+        "title": "Resisting Arrest",
+        "time": "10",
+        "fine": "400",
+        "points": "0",
+        "type": "Misdemeanor A",
+        "description": "No person shall willfully resist, delay, or obstruct any peace officer in the discharge or attempt to discharge any duty of their office. This shall include acts of physical resistance by an individual who officers seek to bring into custody, such as resisting physical detainment or running on foot to elude police officers."
+      },
+      {
+        "title": "Felony Trespassing",
+        "time": "25",
+        "fine": "500",
+        "points": "0",
+        "type": "Felony D",
+        "description": "No person shall enter or remain upon any restricted government property lawful reason or permission of the owner, an agent of the owner, or legal occupant. A formal trespass notice is not required except as to otherwise publicity accessible areas."
+      },
+      {
+        "title": "Animal Cruelty",
+        "time": "15",
+        "fine": "750",
+        "points": "0",
+        "type": "Felony D",
+        "description": "No person shall torture, torment, mutilate, or cruelly kill any animal without lawful cause. Further, no person shall overwork, overload, or deprive of necessary sustenance or drink any animal domesticated withing their care."
+      },
+      {
+        "title": "Vandalism of Government Property",
+        "time": "15",
+        "fine": "700",
+        "points": "0",
+        "type": "Felony D",
+        "description": "No person shall maliciously damage, destroy, or deface any government property."
+      },
+      {
+        "title": "Vandalism",
+        "time": "5",
+        "fine": "200",
+        "points": "0",
+        "type": "Misdemeanor A",
+        "description": "No person shall maliciously damage, destroy, or deface any real or personal property of another."
+      },
+      {
+        "title": "Vandalism of a Cemetery",
+        "time": "15",
+        "fine": "700",
+        "points": "0",
+        "type": "Felony D",
+        "description": "No person shall knowingly commit any act of vandalism, larceny, or theft to a cemetery, nor disturb, or mutilate any tomb, monument, memorial, or exhume any grave."
+      }
+    ]
+  }, {
+    "category": "Fish and Game Regulations",
+    "charges": [
+      {
+        "title": "Hunting Without a License",
+        "time": "5",
+        "fine": "300",
+        "points": "0",
+        "type": "Misdemeanor C",
+        "description": "No person shall engage in the activity of hunting without valid, physical, and current hunting license issued by the State."
+      },
+      {
+        "title": "Fishing Without a License",
+        "time": "5",
+        "fine": "300",
+        "points": "0",
+        "type": "Misdemeanor C",
+        "description": "No person shall engage in the activity of fishing without valid and current fishing license issued by the State."
+      }
+    ]
+  }, {
+    "category": "Offenses Involving Theft and/or Fraud",
+    "charges": [
+      {
+        "title": "Misallocation of Government Equipment",
+        "time": "40",
+        "fine": "1,000",
+        "points": "0",
+        "type": "Felony D",
+        "description": "No government employee shall willfully distribute, sell, transfer, trade, or make available through negligent disposal or storage, the listed government issued equipment to any unauthorized individual. This equipment shall include government issued firearms, tasers, taser cartridges, body armor, ammunition, handcuffs, or batons."
+      }
+    ]
+  }
+]

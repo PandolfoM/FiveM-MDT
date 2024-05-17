@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Traffic Citation",
+    "value": "trafficcitation",
+    "background": "#000000"
+  },
+  {
+    "name": "Deceased",
+    "value": "deceased",
+    "background": "#000000"
+  }
+]

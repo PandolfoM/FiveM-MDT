@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Cadet",
+    "value": "cadet"
+  },
+  {
+    "name": "Probationary Police Officer",
+    "value": "probationary"
+  },
+  {
+    "name": "Officer",
+    "value": "officer"
+  },
+  {
+    "name": "Senior Officer",
+    "value": "seniorofficer"
+  },
+  {
+    "name": "Sergeant",
+    "value": "sergeant"
+  },
+  {
+    "name": "Lieutenant",
+    "value": "lieutenant"
+  },
+  {
+    "name": "Captain",
+    "value": "captain"
+  },
+  {
+    "name": "Assistant Chief",
+    "value": "assistantchief"
+  },
+  {
+    "name": "Chief of Police",
+    "value": "chief"
+  }
+]
